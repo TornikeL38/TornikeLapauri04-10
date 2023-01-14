@@ -42,6 +42,7 @@ nav a{
     color: #262626;
 }
 .txt{
+    display: flex;
     font-size: 25px;
     color: #262626;
     width: 535px;
@@ -49,20 +50,20 @@ nav a{
     margin-top: 50px;
 }
 .circle{
-    position: relative;
+    display: flex;
 }
 .circle img{
-    position: absolute;
-    right: 10px;
-    right: -69px;
+    margin-left: 830px;
     height: 760px;
 }
 .equipe2 h2{
     margin-left: 130px;
-    margin-top: 165px;
+    margin-top: -610px;
     color: #262626;
+    display: flex;
 }
 .txt2{
+    display: flex;
     font-size: 25px;
     color: #262626;
     width: 535px;
@@ -71,8 +72,10 @@ nav a{
 }
 .forpics{
     width: 1300px;
-    height: 900px;
+    height: 700px;
     background-color: white;
     margin: 100px;
-    z-index: 1;
+    display: flex;
+    position: relative;
+    border-radius: 0.5%;
 }
