@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+/* .flex{
+    display: flex;
+} */
+.header{
+    display: flex;
+    justify-content:space-between;
+}
+a{
+    color: black;
+}
+.header img{
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.header nav{
+    margin-top: 20px;
+    margin-right: 100px;
+}
+nav a{
+    margin-right: 50px;
+}
+/* nav :after{
+    content: "";
+    display: flex;
+    width: 1px;
+    height: 15px;
+    background-color: black;
+    right: 25px;
+
+} */
