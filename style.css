@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
     text-decoration: none; 
-    background-color:rgb(237, 231, 231) 
+}
+body{
+    background-color: rgb(237, 231, 231);
 }
 /* .flex{
     display: flex;
@@ -48,6 +50,7 @@ nav a{
     width: 535px;
     margin-left: 130px;
     margin-top: 50px;
+    font-weight: 400;
 }
 .circle{
     display: flex;
