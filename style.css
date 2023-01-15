@@ -79,3 +79,105 @@ nav a{
     position: relative;
     border-radius: 0.5%;
 }
+.forpics2{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:white ;
+}
+.forpics2 img{
+    height: 150px;
+}
+.forpics3{
+    display: flex;
+    background-color: white;
+}
+#pic1{
+    margin-left: 320px;
+    margin-top: 120px;
+}
+#NAME1{
+    background-color: white;
+    margin-top: 285px;
+    margin-left: -125px;
+}
+#p_underpic1{
+    margin-top: 310px;
+    margin-left: -138px ;
+    background-color: white;
+    align-items: center;
+}
+#pic2{
+    margin-top: 120px;
+    margin-left: 121px;
+}
+#NAME2{
+    background-color: white;
+    margin-top: 285px;
+    margin-left: -125px;
+}
+#p_underpic2{
+    margin-top: 310px;
+    margin-left: -138px ;
+    background-color: white;
+    align-items: center;
+}
+#pic3{
+    margin-top: 120px;
+    margin-left: 121px;
+}
+#NAME3{
+    background-color: white;
+    margin-top: 285px;
+    margin-left: -125px;
+}
+#p_underpic3{
+    margin-top: 310px;
+    margin-left: -138px ;
+    background-color: white;
+    align-items: center;
+}
+#pic4{
+    margin-left: 320px;
+    margin-top: 0px;
+}
+#NAME4{
+    background-color: white;
+    margin-top: 165px;
+    margin-left: -125px;
+}
+#p_underpic4{
+    margin-top: 190px;
+    margin-left: -138px ;
+    background-color: white;
+    align-items: center;
+}
+#pic5{
+    margin-left: 121px;
+    margin-top: 0px;
+}
+#NAME5{
+    background-color: white;
+    margin-top: 165px;
+    margin-left: -125px;
+}
+#p_underpic5{
+    margin-top: 190px;
+    margin-left: -138px ;
+    background-color: white;
+    align-items: center;
+}
+#pic6{
+    margin-left: 121px;
+    margin-top: 0px;
+}
+#NAME6{
+    background-color: white;
+    margin-top: 165px;
+    margin-left: -125px;
+}
+#p_underpic6{
+    margin-top: 190px;
+    margin-left: -138px ;
+    background-color: white;
+    align-items: center;
+}
